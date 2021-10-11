@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity 2</string>
+    <string name="act2">ACTIVITY 2: Large Tech Companies</string>
+    <string name="thetop10">10 Biggest Tech Companies In The World in 2021</string>
+    <string name="nmb1">1. Apple – $260.174 Billion</string>
+    <string name="nmb2">2. Samsung Electronics – $197.705 Billion</string>
+    <string name="nmb3">3. Foxconn – $178.869 Billion</string>
+    <string name="nmb4">4. Alphabet – $161.857 Billion</string>
+    <string name="nmb5">5. Microsoft – $125.843 Billion</string>
+    <string name="nmb6">6. Huawei – $124.316 Billion</string>
+    <string name="nmb7">7. Dell Technologies – $92.154 Billion</string>
+    <string name="nmb8">8. Hitachi – $80.639 Billion</string>
+    <string name="nmb9">9. IBM – $77.147 Billion</string>
+    <string name="nmb10">10. Sony – $75.972 Billion</string>
+</resources>
